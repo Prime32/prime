@@ -1,0 +1,3 @@
+C:/Users/Milad 2k18/Desktop/prime/build/CMakeFiles/prime.dir
+C:/Users/Milad 2k18/Desktop/prime/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Milad 2k18/Desktop/prime/build/CMakeFiles/ZERO_CHECK.dir
